@@ -1,9 +1,13 @@
 # Derry Smith
 
-[![badge-github](https://img.shields.io/badge/github-derrysmith-306090?style=for-the-badge&logo=github&logoColor=lightgrey)](https://github.com/derrysmith)
-[![badge-linkedin](https://img.shields.io/badge/linkedin-derry_smith-306090?style=for-the-badge&logo=linkedin&logoColor=lightgrey)](https://www.linkedin.com/in/derrysmith/)
+<!-- [![badge-github](https://img.shields.io/badge/github-derrysmith-306090?style=for-the-badge&logo=github&logoColor=lightgrey)](https://github.com/derrysmith)
+[![badge-linkedin](https://img.shields.io/badge/linkedin-derry_smith-306090?style=for-the-badge&logo=linkedin&logoColor=lightgrey)](https://www.linkedin.com/in/derrysmith/) -->
 <!-- [![badge-linkedin](https://img.shields.io/badge/twitter-@derryroshad-306090?style=for-the-badge&logo=twitter&logoColor=lightgrey)](https://twitter.com/derryroshad) -->
 
 
-- pronouns: he/him/his
-- position: cto @ kiira health, inc
+[![badge-github](https://img.shields.io/badge/github-derrysmith-181717?style=for-the-badge&logo=github&logoColor=lightgrey)](https://github.com/derrysmith)
+[![badge-linkedin](https://img.shields.io/badge/linkedin-derry_smith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=lightgrey)](https://www.linkedin.com/in/derrysmith/)
+
+
+![badge-pronouns](https://img.shields.io/badge/pronouns-he/him/his-306090?style=for-the-badge&logo=github&logoColor=lightgrey)
+[![badge-position](https://img.shields.io/badge/cto-kiira_health-0253E2?style=for-the-badge&logo=github&logoColor=lightgrey)](https://kiira.io/)
