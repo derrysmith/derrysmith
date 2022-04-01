@@ -9,5 +9,5 @@
 [![badge-linkedin](https://img.shields.io/badge/linkedin-derry_smith-0A66C2?style=for-the-badge&logo=linkedin&logoColor=lightgrey)](https://www.linkedin.com/in/derrysmith/)
 
 
-![badge-pronouns](https://img.shields.io/badge/pronouns-he/him/his-306090?style=for-the-badge&logo=github&logoColor=lightgrey)
-[![badge-position](https://img.shields.io/badge/cto-kiira_health-0253E2?style=for-the-badge&logo=github&logoColor=lightgrey)](https://kiira.io/)
+- __pronouns__: he/him/his
+- __position__: cto @ kiira health
