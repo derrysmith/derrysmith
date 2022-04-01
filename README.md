@@ -5,5 +5,5 @@
 <!-- [![badge-linkedin](https://img.shields.io/badge/twitter-@derryroshad-306090?style=for-the-badge&logo=twitter&logoColor=lightgrey)](https://twitter.com/derryroshad) -->
 
 
-- pronouns: he/him/her
+- pronouns: he/him/his
 - position: cto @ kiira health, inc
