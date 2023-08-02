@@ -10,4 +10,3 @@
 
 
 - __pronouns__: he/him/his
-- __position__: cto @ kiira health
